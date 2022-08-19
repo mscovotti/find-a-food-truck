@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# Find a Food Truck app
+# Find a Food Truck API
 
 This is a simple Rest API to find food trucks in San Francisco, CA. It gets the data from the [city's food truck open dataset](https://data.sfgov.org/Economy-and-Community/Mobile-Food-Facility-Permit/rqzj-sfat/data).
 
